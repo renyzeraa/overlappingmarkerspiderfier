@@ -1,0 +1,7 @@
+html, body { height: auto; font: 14px 'Helvetica Neue', 'Arial', sans-serif; }
+p { margin: 0.75em 0; }
+ul { margin: 0; padding: 0; }
+a { cursor: pointer; }
+#map_element { position: absolute; bottom: 0; left: 0; right: 0; top: 0; }
+#legend { position: absolute; right: 20px; top: 20px; background: rgba(0,0,0,0.5); color: #fff; }
+#legend ul { padding: 10px 20px 10px 10px; margin: 0 0 0 20px; }
